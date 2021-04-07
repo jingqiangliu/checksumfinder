@@ -2,13 +2,14 @@
 checksum (crc32, etc) finder hunter seeker detector locator :)
 
 
-## png crc32 finder
-```
+## 1. png crc32 finder
+
+
 ![img](https://github.com/salmonx/checksumfinder/blob/main/finderdemo.gif)
-```
 
 
-## zip crc32 finder
+
+## 2. zip crc32 finder
 ```sh
 λ python zipcrc.py -crc32  1.zip
 pos:0x594 crc:0xffe73f0cL
